@@ -12,7 +12,7 @@ This project was developed as part of a **Full-Stack Coding Assignment** to demo
 
 ### Frontend (Vercel)
 
-https://hrms-lite-kappa-two.vercel.app/employees
+https://hrms-lite-kappa-two.vercel.app/
 
 ### Backend API (Render)
 
